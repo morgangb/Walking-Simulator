@@ -123,8 +123,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_D81DB69: 1
-    - Vector1_DF073675: 0.05
+    - Vector1_D81DB69: 4
+    - Vector1_DF073675: 1
     - _AORemapMax: 1
     - _AORemapMin: 0
     - _ATDistance: 1
