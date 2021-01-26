@@ -114,7 +114,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 8232
+  controlID: 3812
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +139,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 1
-  controlID: 8233
+  controlID: 3813
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -165,7 +165,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 221}
   m_MaxSize: {x: 12003, y: 4021}
   vertical: 0
-  controlID: 8202
+  controlID: 3693
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -271,7 +271,7 @@ MonoBehaviour:
   m_MinSize: {x: 331, y: 271}
   m_MaxSize: {x: 14001, y: 10021}
   vertical: 0
-  controlID: 8234
+  controlID: 3814
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -446,9 +446,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: acf9ffff
-      m_LastClickedID: -1620
-      m_ExpandedIDs: 3234ffffe08effff6afbffff3c440000
+      m_SelectedIDs: fe430000
+      m_LastClickedID: 17406
+      m_ExpandedIDs: b4d9ffff6afbffff42440000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -561,9 +561,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -57.746033, y: -43.73347, z: 29.483091}
+    m_Target: {x: -0.13474965, y: 3.59447, z: 3.56041}
     speed: 2
-    m_Value: {x: -57.745983, y: -43.73353, z: 29.483126}
+    m_Value: {x: -0.13474965, y: 3.59447, z: 3.56041}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -609,13 +609,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.3306868, y: -0.42925662, z: 0.17257677, w: -0.8226666}
+    m_Target: {x: 0.46308666, y: 0.22306411, z: -0.121581, w: 0.8492327}
     speed: 2
-    m_Value: {x: -0.33091584, y: -0.42798403, z: 0.17206523, w: -0.8232362}
+    m_Value: {x: 0.4617696, y: 0.22322564, z: -0.12123494, w: 0.84984773}
   m_Size:
-    m_Target: 42.43022
+    m_Target: 5.9348674
     speed: 2
-    m_Value: 40.603085
+    m_Value: 5.9348693
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -704,7 +704,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 694
+  m_LastVerticalScrollValue: 0
 --- !u!114 &21
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -744,21 +744,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/YughuesFreeBushes2018/Prefabs
+    - Assets/Presets/Victim
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/YughuesFreeBushes2018/Prefabs
+  - Assets/Presets/Victim
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Uni Shirt\Walking Sim\Walking-Simulator\Walking-Simulator\Till
     Death Do Us Part - Unity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 165}
-    m_SelectedIDs: 0a4d0000
-    m_LastClickedID: 19722
-    m_ExpandedIDs: 000000001447000016470000184700001a4700001c4700001e47000020470000224700002447000026470000284700002a4700002c4700003c47000046470000ae4900000e4d000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: ea4b0000
+    m_LastClickedID: 19434
+    m_ExpandedIDs: 00000000c8470000ca470000cc470000ce470000d0470000d2470000d4470000d6470000d8470000da470000dc470000de470000e0470000e2470000e4470000fa470000ea4b0000f84b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -786,7 +786,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001447000016470000184700001a4700001c4700001e47000020470000224700002447000026470000284700002a4700002c47000046470000ae49000000ca9a3b
+    m_ExpandedIDs: 00000000c8470000ca470000cc470000ce470000d0470000d2470000d4470000d6470000d8470000da470000dc470000de470000e0470000e2470000e447000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -813,7 +813,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000e8400000605f00002849000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

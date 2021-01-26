@@ -23,7 +23,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 0
-  controlID: 7615
+  controlID: 150
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 1
-  controlID: 7616
+  controlID: 151
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 678, y: 221}
   m_MaxSize: {x: 12003, y: 4021}
   vertical: 0
-  controlID: 7617
+  controlID: 152
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -186,8 +186,8 @@ MonoBehaviour:
     y: 0
     width: 360
     height: 543
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 6}
   m_Panes:
   - {fileID: 6}
@@ -224,21 +224,21 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 3234ffffe08effff6afbffff3c440000
+      m_ExpandedIDs: b4d9ffff6afbffff42440000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: Sky and Fog Volume
-        m_OriginalName: Sky and Fog Volume
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 17472
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -267,8 +267,8 @@ MonoBehaviour:
     y: 0
     width: 898
     height: 543
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 10}
   m_Panes:
   - {fileID: 8}
@@ -366,9 +366,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.92646146, y: -1.5818202, z: 6.1848807}
+    m_Target: {x: 22.984762, y: -45.62113, z: 33.70887}
     speed: 2
-    m_Value: {x: -0.92646146, y: -1.5818202, z: 6.1848807}
+    m_Value: {x: 22.984762, y: -45.62113, z: 33.70887}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -414,13 +414,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.33643404, y: 0.0245783, z: -0.008679499, w: -0.9414387}
+    m_Target: {x: 0.38380745, y: 0.26321912, z: -0.11503864, w: 0.87770075}
     speed: 2
-    m_Value: {x: -0.33640477, y: 0.024576161, z: -0.008678744, w: -0.9413568}
+    m_Value: {x: 0.38377196, y: 0.26319477, z: -0.115028, w: 0.87761956}
   m_Size:
-    m_Target: 3.6802225
+    m_Target: 35.37389
     speed: 2
-    m_Value: 3.6802225
+    m_Value: 35.37389
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -534,8 +534,8 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
-  m_LastInspectedObjectInstanceID: -52202
-  m_LastVerticalScrollValue: 694
+  m_LastInspectedObjectInstanceID: -9804
+  m_LastVerticalScrollValue: 0
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -560,7 +560,7 @@ MonoBehaviour:
   m_MinSize: {x: 331, y: 271}
   m_MaxSize: {x: 14001, y: 10021}
   vertical: 0
-  controlID: 7566
+  controlID: 123
 --- !u!114 &15
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -627,21 +627,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/YughuesFreeBushes2018/Prefabs
+    - Assets/Presets/Victim/VictimTextures/Ear
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/YughuesFreeBushes2018/Prefabs
+  - Assets/Presets/Victim/VictimTextures/Ear
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\Uni Shirt\Walking Sim\Walking-Simulator\Walking-Simulator\Till
     Death Do Us Part - Unity
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 165}
-    m_SelectedIDs: 0a4d0000
-    m_LastClickedID: 19722
-    m_ExpandedIDs: 000000001447000016470000184700001a4700001c4700001e47000020470000224700002447000026470000284700002a4700002c4700003c47000046470000ae4900000e4d000000ca9a3b
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: f24b0000
+    m_LastClickedID: 19442
+    m_ExpandedIDs: 00000000c8470000ca470000cc470000ce470000d0470000d2470000d4470000d6470000d8470000da470000dc470000de470000e0470000e2470000e4470000fa470000fe470000ea4b0000f44b0000f84b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -669,7 +669,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001447000016470000184700001a4700001c4700001e47000020470000224700002447000026470000284700002a4700002c47000046470000ae49000000ca9a3b
+    m_ExpandedIDs: 00000000c8470000ca470000cc470000ce470000d0470000d2470000d4470000d6470000d8470000da470000dc470000de470000e0470000e2470000e4470000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -694,8 +694,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 1834ffff1c34ffff1a34ffff1634ffff
-    m_LastClickedInstanceID: -52200
+    m_SelectedInstanceIDs: b4d9ffff
+    m_LastClickedInstanceID: -9804
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000e8400000605f00002849000000000000
     m_RenameOverlay:
@@ -770,8 +770,8 @@ MonoBehaviour:
     y: 0
     width: 640
     height: 404
-  m_MinSize: {x: 101, y: 121}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 2}
   m_Panes:
   - {fileID: 2}
