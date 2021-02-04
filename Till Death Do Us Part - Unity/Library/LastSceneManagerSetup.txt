@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Cameron_Test.unity
+- path: Assets/Scenes/WaterEnding.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
