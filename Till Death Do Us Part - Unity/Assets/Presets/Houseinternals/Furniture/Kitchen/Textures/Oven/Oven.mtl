@@ -1,0 +1,21 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.243586452)
+
+newmtl OvenDoors
+illum 1
+
+newmtl lambert1
+illum 1
+
+newmtl ovenWindows
+illum 1
+
+newmtl OvenDoorHandles
+illum 1
+
+newmtl Nobs
+illum 1
+
+newmtl Hobs
+illum 1
+
