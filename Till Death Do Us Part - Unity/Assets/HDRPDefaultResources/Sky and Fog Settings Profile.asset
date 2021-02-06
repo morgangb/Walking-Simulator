@@ -18,7 +18,7 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   colorMode:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
   color:
     m_OverrideState: 0
@@ -26,8 +26,14 @@ MonoBehaviour:
     hdr: 1
     showAlpha: 0
     showEyeDropper: 1
+  tint:
+    m_OverrideState: 1
+    m_Value: {r: 1, g: 1, b: 1, a: 1}
+    hdr: 1
+    showAlpha: 0
+    showEyeDropper: 1
   maxFogDistance:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 5000
     min: 0
   mipFogMaxMip:
@@ -44,31 +50,31 @@ MonoBehaviour:
     m_Value: 1000
     min: 0
   baseHeight:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 0
   maximumHeight:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 50
   albedo:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: {r: 1, g: 1, b: 1, a: 1}
     hdr: 0
     showAlpha: 1
     showEyeDropper: 1
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 200
+    m_Value: 40
     min: 1
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
   anisotropy:
     m_OverrideState: 1
-    m_Value: 0.65
+    m_Value: 0.04
     min: -1
     max: 1
   globalLightProbeDimmer:
-    m_OverrideState: 0
+    m_OverrideState: 1
     m_Value: 1
     min: 0
     max: 1
@@ -100,6 +106,7 @@ MonoBehaviour:
   - {fileID: 6775376097864012941}
   - {fileID: 7488742677745068149}
   - {fileID: -3305224281371206947}
+  - {fileID: 9104441255264200331}
 --- !u!114 &6775376097864012941
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -116,10 +123,10 @@ MonoBehaviour:
   m_AdvancedMode: 0
   skyType:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 4
   skyAmbientMode:
-    m_OverrideState: 0
-    m_Value: 0
+    m_OverrideState: 1
+    m_Value: 1
   fogType:
     m_OverrideState: 1
     m_Value: 3
@@ -224,3 +231,55 @@ MonoBehaviour:
   rectLightShadow:
     m_OverrideState: 0
     m_Value: 0
+--- !u!114 &9104441255264200331
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c1be1b6c95cd2e41b27903b9270817f, type: 3}
+  m_Name: Vignette
+  m_EditorClassIdentifier: 
+  active: 1
+  m_AdvancedMode: 0
+  mode:
+    m_OverrideState: 1
+    m_Value: 0
+  color:
+    m_OverrideState: 1
+    m_Value: {r: 0, g: 0, b: 0, a: 1}
+    hdr: 0
+    showAlpha: 0
+    showEyeDropper: 1
+  center:
+    m_OverrideState: 1
+    m_Value: {x: 0.5, y: 0.5}
+  intensity:
+    m_OverrideState: 1
+    m_Value: 0.283
+    min: 0
+    max: 1
+  smoothness:
+    m_OverrideState: 1
+    m_Value: 0.439
+    min: 0.01
+    max: 1
+  roundness:
+    m_OverrideState: 1
+    m_Value: 1
+    min: 0
+    max: 1
+  rounded:
+    m_OverrideState: 1
+    m_Value: 0
+  mask:
+    m_OverrideState: 0
+    m_Value: {fileID: 0}
+  opacity:
+    m_OverrideState: 0
+    m_Value: 1
+    min: 0
+    max: 1
