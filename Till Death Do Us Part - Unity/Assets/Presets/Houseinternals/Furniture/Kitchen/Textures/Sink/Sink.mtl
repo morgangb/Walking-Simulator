@@ -1,0 +1,18 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.243586452)
+
+newmtl Porcelain
+illum 1
+
+newmtl TapsMetal
+illum 1
+
+newmtl Cabinet Door
+illum 1
+
+newmtl lambert1
+illum 1
+
+newmtl Cabinet Wood
+illum 1
+
