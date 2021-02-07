@@ -35,13 +35,18 @@ public class DraggingController : MonoBehaviour
 
         RaycastHit hit;
 
+        Debug.Log("Update on Dragging Controller");
+
         // Does the ray intersect any objects excluding the player layer
         if (Physics.Raycast(transform.position, transform.TransformDirection(Vector3.forward), out hit, Mathf.Infinity, layerMask))
         {
+            Debug.Log("Raycast Hit");
             if (hit.transform.tag == "Corpse")
             {
+                Debug.Log("Hit Corpse");
                 if (Input.GetButton("Fire1") && !myJoint.connectedBody)
                 {
+                    Debug.Log("Dragging Corpse");
                     myJoint.connectedBody = hit.transform.gameObject.GetComponent<Rigidbody>();
 
                     ToggleDragging(true);
